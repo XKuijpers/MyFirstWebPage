@@ -1,0 +1,46 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#mainHeading {
+    color: #8f3030;
+}
+
+.reset{
+    clear:both;
+}
+
+.highlight{
+    color: #FF0000;
+}
+
+#profilePic{
+    float: left;
+    max-width: 250px;
+}
+
+#hobbyPic{
+    float: right;
+    max-width: 500px;
+}
+
+.aboutMe{
+    max-width: 850px;
+    float: right;
+    margin-right: 250px;
+}
+
+.hobbyInfo{
+    max-width: 850px;
+    float: left;
+    margin-right: 250px;
+}
+
+.container{
+    margin-left: 3cm;
+}
+
+.img{
+    max-width: 300px;
+}
