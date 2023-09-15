@@ -7,40 +7,38 @@ body{
     color: #8f3030;
 }
 
-.reset{
-    clear:both;
-}
-
 .highlight{
     color: #FF0000;
 }
 
-#profilePic{
+#introText{
+    width: 812px;
     float: left;
-    max-width: 250px;
 }
 
-#hobbyPic{
-    float: right;
-    max-width: 500px;
-}
-
-.aboutMe{
-    max-width: 850px;
-    float: right;
-    margin-right: 250px;
-}
-
-.hobbyInfo{
-    max-width: 850px;
+#profilePicture{
     float: left;
-    margin-right: 250px;
 }
 
-.container{
-    margin-left: 3cm;
+.reset{
+    clear: both;
 }
 
-.img{
-    max-width: 300px;
+#hobbyText{
+    width: 576px;
+    float: left;
+}
+
+#heroShot{
+    float: left;
+}
+
+#funnyImage{
+    float: left;
+}
+
+#socials{
+    width: 419px;
+    float: left;
+    background-color: #c6c6c6;
 }
