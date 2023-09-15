@@ -1,6 +1,11 @@
 body{
     background-color: #f4f4f4;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0px;
+}
+
+h1{
+    margin: 0px;
 }
 
 #mainHeading {
@@ -14,14 +19,12 @@ body{
 #introText{
     width: 812px;
     float: left;
-    margin-left: 93px;
-    margin-top: 20px;
+    margin: 20px 0px 0px 93px;
 }
 
 #profilePicture{
     float: left;
-    margin-left: 170px;
-    margin-top: 20px;
+    margin: 20px 0px 46px 0px;
 }
 
 .reset{
@@ -31,36 +34,34 @@ body{
 #hobbyText{
     width: 576px;
     float: left;
-    margin-left: 170px;
-    margin-top: 46px;
 }
 
 #heroShot{
     float: left;
-    margin-left: 81px;
+    margin: 0px 0px 0px 81px;
 }
 
 #funnyImage{
     float: left;
-    margin-left: 170px;
-    margin-bottom: 20px;
-    margin-top: 42px;
+    margin: 42px 0px 20px 0px;
 }
 
 #socials{
     width: 419px;
     float: left;
     background-color: #c6c6c6;
-    margin-left: 439px;
-    margin-top: 206px;
+    margin: 206px 0px 0px 439px;
 }
 
 #instagramPic{
-    margin-top: 5px;
-    margin-left: 8px;
+    margin: 5px 0px 0px 8px;
 }
 
 #youtubePic{
-    margin-left: 72px;
-    margin-right: 72px;
+    margin: 0px 72px 0px 72px;
+}
+
+#pageContainer{
+    width: 1111px;
+    margin: 0px auto 0px auto;
 }
