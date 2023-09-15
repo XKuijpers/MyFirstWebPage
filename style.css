@@ -14,10 +14,14 @@ body{
 #introText{
     width: 812px;
     float: left;
+    margin-left: 93px;
+    margin-top: 20px;
 }
 
 #profilePicture{
     float: left;
+    margin-left: 170px;
+    margin-top: 20px;
 }
 
 .reset{
@@ -27,18 +31,36 @@ body{
 #hobbyText{
     width: 576px;
     float: left;
+    margin-left: 170px;
+    margin-top: 46px;
 }
 
 #heroShot{
     float: left;
+    margin-left: 81px;
 }
 
 #funnyImage{
     float: left;
+    margin-left: 170px;
+    margin-bottom: 20px;
+    margin-top: 42px;
 }
 
 #socials{
     width: 419px;
     float: left;
     background-color: #c6c6c6;
+    margin-left: 439px;
+    margin-top: 206px;
+}
+
+#instagramPic{
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+#youtubePic{
+    margin-left: 72px;
+    margin-right: 72px;
 }
