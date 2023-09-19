@@ -28,6 +28,24 @@ td{
     background-color: #ffffff;
 }
 
+#navigation{
+    background-color: #ba5252ff;
+}
+
+#navigation a{
+    text-decoration: none;
+    background-color: #8a2121;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 20px 0px 0px;
+    display: block;
+    float: left;
+}
+
+#navigation a:hover{
+    background-color: #9a1c1c;
+}
+
 /*Introduction*/
 #mainHeading{
     color: #8f3030;
