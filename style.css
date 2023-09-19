@@ -8,12 +8,29 @@ h1{
     margin: 0px;
 }
 
-#mainHeading {
-    color: #8f3030;
+td{
+    border: #000000 solid 1px;
 }
 
+/*Classes*/
 .highlight{
     color: #FF0000;
+}
+
+.reset{
+    clear: both;
+}
+
+/*ID's*/
+#pageContainer{
+    width: 1111px;
+    margin: 0px auto 0px auto;
+    background-color: #ffffff;
+}
+
+/*Introduction*/
+#mainHeading{
+    color: #8f3030;
 }
 
 #introText{
@@ -27,10 +44,8 @@ h1{
     margin: 20px 0px 46px 0px;
 }
 
-.reset{
-    clear: both;
-}
 
+/*Hobbies*/
 #hobbyText{
     width: 576px;
     float: left;
@@ -39,29 +54,24 @@ h1{
 #heroShot{
     float: left;
     margin: 0px 0px 0px 81px;
+    border-radius: 4px;
 }
 
+/*Meme*/
 #funnyImage{
     float: left;
     margin: 42px 0px 20px 0px;
 }
 
+/*Socials*/
 #socials{
     width: 419px;
     float: left;
     background-color: #c6c6c6;
     margin: 206px 0px 0px 439px;
+    padding: 6px 4px 6px 4px;
 }
 
-#instagramPic{
-    margin: 5px 0px 0px 8px;
-}
-
-#youtubePic{
-    margin: 0px 72px 0px 72px;
-}
-
-#pageContainer{
-    width: 1111px;
-    margin: 0px auto 0px auto;
+#socials img{
+    margin: 6px 26px 0px 26px;
 }
